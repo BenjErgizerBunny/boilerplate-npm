@@ -1,5 +1,6 @@
 {
 	"author": "Benji Energizer Bunny",
+	"author": "Benji 2",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
